@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 83d02348f02f80a48917e507c03f84d2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bricks
+    100002: mattress
+    100004: polymsh
+    100006: polymsh1
+    100008: polymsh23
+    100010: polymsh_detached
+    100012: polymsh_detached2
+    100014: polymsh_detached6
+    100016: polymsh_detached7
+    100018: polymsh_detached9
+    100020: //RootNode
+    100022: sofa
+    100024: walls
+    400000: bricks
+    400002: mattress
+    400004: polymsh
+    400006: polymsh1
+    400008: polymsh23
+    400010: polymsh_detached
+    400012: polymsh_detached2
+    400014: polymsh_detached6
+    400016: polymsh_detached7
+    400018: polymsh_detached9
+    400020: //RootNode
+    400022: sofa
+    400024: walls
+    2300000: bricks
+    2300002: mattress
+    2300004: polymsh
+    2300006: polymsh1
+    2300008: polymsh23
+    2300010: polymsh_detached
+    2300012: polymsh_detached2
+    2300014: polymsh_detached6
+    2300016: polymsh_detached7
+    2300018: polymsh_detached9
+    2300020: sofa
+    2300022: walls
+    3300000: bricks
+    3300002: mattress
+    3300004: polymsh
+    3300006: polymsh1
+    3300008: polymsh23
+    3300010: polymsh_detached
+    3300012: polymsh_detached2
+    3300014: polymsh_detached6
+    3300016: polymsh_detached7
+    3300018: polymsh_detached9
+    3300020: sofa
+    3300022: walls
+    4300000: walls
+    4300002: sofa
+    4300004: mattress
+    4300006: bricks
+    4300008: polymsh23
+    4300010: polymsh
+    4300012: polymsh_detached2
+    4300014: polymsh_detached7
+    4300016: polymsh_detached6
+    4300018: polymsh1
+    4300020: polymsh_detached
+    4300022: polymsh_detached9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

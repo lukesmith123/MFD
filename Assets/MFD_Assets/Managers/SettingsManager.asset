@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b776810ebfa374d7ba8f0fb5ed6e3265, type: 3}
+  m_Name: SettingsManager
+  m_EditorClassIdentifier: 
+  player: {fileID: 11400002, guid: 0513193dab03a7d4c87619ca1135bc3b, type: 2}
+  controlStyle: 1
+  inputType: 0
+  freeAimTouchSpeed: .100000001
+  dragWalkThreshold: 5
+  dragRunThreshold: 20
+  drawDragLine: 0
+  dragLineWidth: 3
+  dragLineColor: {r: 1, g: 1, b: 1, a: 1}
+  alwaysOnInventory: 1
+  navMeshRaycastLength: 100
+  hotspotRaycastLength: 100
+  textScrollSpeed: 50
+  screenTimeFactor: .100000001
+  allowSpeechSkipping: 0
+  searchAudioFiles: 1
+  forceSubtitles: 1
+  translateAudio: 1
+  normalCursorSize: .0149999997
+  iconCursorSize: .0399999991
+  inventoryCursorSize: .0599999987
+  allowMainCursor: 1
+  inventoryHandling: 0
+  allowInteractionCursor: 1
+  useTexture: {fileID: 2800000, guid: fca3605bfa5c847a19ca115a1c925bd1, type: 3}
+  lookTexture: {fileID: 2800000, guid: e0394f989f329496584e377a81d4031f, type: 3}
+  talkTexture: {fileID: 2800000, guid: f03835de3da7f442f92582f0dd5e5863, type: 3}
+  pointerTexture: {fileID: 2800000, guid: 5c83780962ed843c0928648679746938, type: 3}

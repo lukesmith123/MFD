@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: c904be03482c23d46a428738807a4ba7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip001 Footsteps
+    100002: Bip001 HeadNub
+    100004: Bip001 HeadShopKeep
+    100006: Bip001 L CalfShopKeep
+    100008: Bip001 L ClavicleShopKeep
+    100010: Bip001 L Finger01ShopKeep
+    100012: Bip001 L Finger02ShopKeep
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Finger0ShopKeep
+    100018: Bip001 L Finger11ShopKeep
+    100020: Bip001 L Finger12ShopKeep
+    100022: Bip001 L Finger1Nub
+    100024: Bip001 L Finger1ShopKeep
+    100026: Bip001 L Finger21ShopKeep
+    100028: Bip001 L Finger22ShopKeep
+    100030: Bip001 L Finger2Nub
+    100032: Bip001 L Finger2ShopKeep
+    100034: Bip001 L FootShopKeep
+    100036: Bip001 L ForearmShopKeep
+    100038: Bip001 L HandShopKeep
+    100040: Bip001 L ThighShopKeep
+    100042: Bip001 L Toe01ShopKeep
+    100044: Bip001 L Toe02ShopKeep
+    100046: Bip001 L Toe0Nub
+    100048: Bip001 L Toe0ShopKeep
+    100050: Bip001 L UpperArmShopKeep
+    100052: Bip001 NeckShopKeep
+    100054: Bip001 PelvisShopKeep
+    100056: Bip001 R CalfShopKeep
+    100058: Bip001 R ClavicleShopKeep
+    100060: Bip001 R Finger01ShopKeep
+    100062: Bip001 R Finger02ShopKeep
+    100064: Bip001 R Finger0Nub
+    100066: Bip001 R Finger0ShopKeep
+    100068: Bip001 R Finger11ShopKeep
+    100070: Bip001 R Finger12ShopKeep
+    100072: Bip001 R Finger1Nub
+    100074: Bip001 R Finger1ShopKeep
+    100076: Bip001 R Finger21ShopKeep
+    100078: Bip001 R Finger22ShopKeep
+    100080: Bip001 R Finger2Nub
+    100082: Bip001 R Finger2ShopKeep
+    100084: Bip001 R FootShopKeep
+    100086: Bip001 R ForearmShopKeep
+    100088: Bip001 R HandShopKeep
+    100090: Bip001 R ThighShopKeep
+    100092: Bip001 R Toe01ShopKeep
+    100094: Bip001 R Toe02ShopKeep
+    100096: Bip001 R Toe0Nub
+    100098: Bip001 R Toe0ShopKeep
+    100100: Bip001 R UpperArmShopKeep
+    100102: Bip001 Spine1ShopKeep
+    100104: Bip001 Spine2ShopKeep
+    100106: Bip001 SpineShopKeep
+    100108: Bip001ShopKeep
+    100110: Bone030
+    100112: Bone031
+    100114: Bone032
+    100116: Lower_lip _ctrl
+    100118: MFD_ShopKeep
+    100120: //RootNode
+    100122: Mouth _up Ctrl
+    100124: mouth_up1
+    100126: mouth_up2
+    100128: mouth_up3
+    100130: mouth_up_ctrl1
+    100132: mouth_up_ctrl2
+    100134: mouth_up_ctrl3
+    400000: Bip001 Footsteps
+    400002: Bip001 HeadNub
+    400004: Bip001 HeadShopKeep
+    400006: Bip001 L CalfShopKeep
+    400008: Bip001 L ClavicleShopKeep
+    400010: Bip001 L Finger01ShopKeep
+    400012: Bip001 L Finger02ShopKeep
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Finger0ShopKeep
+    400018: Bip001 L Finger11ShopKeep
+    400020: Bip001 L Finger12ShopKeep
+    400022: Bip001 L Finger1Nub
+    400024: Bip001 L Finger1ShopKeep
+    400026: Bip001 L Finger21ShopKeep
+    400028: Bip001 L Finger22ShopKeep
+    400030: Bip001 L Finger2Nub
+    400032: Bip001 L Finger2ShopKeep
+    400034: Bip001 L FootShopKeep
+    400036: Bip001 L ForearmShopKeep
+    400038: Bip001 L HandShopKeep
+    400040: Bip001 L ThighShopKeep
+    400042: Bip001 L Toe01ShopKeep
+    400044: Bip001 L Toe02ShopKeep
+    400046: Bip001 L Toe0Nub
+    400048: Bip001 L Toe0ShopKeep
+    400050: Bip001 L UpperArmShopKeep
+    400052: Bip001 NeckShopKeep
+    400054: Bip001 PelvisShopKeep
+    400056: Bip001 R CalfShopKeep
+    400058: Bip001 R ClavicleShopKeep
+    400060: Bip001 R Finger01ShopKeep
+    400062: Bip001 R Finger02ShopKeep
+    400064: Bip001 R Finger0Nub
+    400066: Bip001 R Finger0ShopKeep
+    400068: Bip001 R Finger11ShopKeep
+    400070: Bip001 R Finger12ShopKeep
+    400072: Bip001 R Finger1Nub
+    400074: Bip001 R Finger1ShopKeep
+    400076: Bip001 R Finger21ShopKeep
+    400078: Bip001 R Finger22ShopKeep
+    400080: Bip001 R Finger2Nub
+    400082: Bip001 R Finger2ShopKeep
+    400084: Bip001 R FootShopKeep
+    400086: Bip001 R ForearmShopKeep
+    400088: Bip001 R HandShopKeep
+    400090: Bip001 R ThighShopKeep
+    400092: Bip001 R Toe01ShopKeep
+    400094: Bip001 R Toe02ShopKeep
+    400096: Bip001 R Toe0Nub
+    400098: Bip001 R Toe0ShopKeep
+    400100: Bip001 R UpperArmShopKeep
+    400102: Bip001 Spine1ShopKeep
+    400104: Bip001 Spine2ShopKeep
+    400106: Bip001 SpineShopKeep
+    400108: Bip001ShopKeep
+    400110: Bone030
+    400112: Bone031
+    400114: Bone032
+    400116: Lower_lip _ctrl
+    400118: MFD_ShopKeep
+    400120: //RootNode
+    400122: Mouth _up Ctrl
+    400124: mouth_up1
+    400126: mouth_up2
+    400128: mouth_up3
+    400130: mouth_up_ctrl1
+    400132: mouth_up_ctrl2
+    400134: mouth_up_ctrl3
+    4300000: MFD_ShopKeep
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: MFD_ShopKeep
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
